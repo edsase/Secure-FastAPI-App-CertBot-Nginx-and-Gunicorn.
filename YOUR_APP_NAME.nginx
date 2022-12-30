@@ -2,7 +2,7 @@ server {
 
   listen 80;
 
-  server_name cctv.edsasetech.com www.cctv.edsasetech.com 194.195.246.252;
+  server_name subdomain.edsasetech.com www.subdomain.edsasetech.com 195.168.5.2;
 
 
 
